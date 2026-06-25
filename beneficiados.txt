@@ -1,0 +1,3 @@
+ID: 111 | Nome: Alberto Alface | Beneficio: Computador Portatil | Score: 30.8
+ID: 113 | Nome: Arlindo Muchanga | Beneficio: Bolsa de Estudo | Score: 30.8
+ID: 108 | Nome: Joana de Assuncao Uelemo | Beneficio: Computador Portatil | Score: 12.0182
